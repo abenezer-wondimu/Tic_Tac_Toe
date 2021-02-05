@@ -71,3 +71,4 @@ while True:
 # TODO LIST
 # 1. Add feature to ask if the user wants to play agian
 # 2. Change the program to gui based using pygame module
+# 3. Build a tic tac toe web application
