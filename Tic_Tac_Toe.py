@@ -67,3 +67,7 @@ while True:
     if check_winner(xo_list, player_2_profile) == True:
         print("Player 2 WON!!! Congratulation!!!")
         break
+
+# TODO LIST
+# 1. Add feature to ask if the user wants to play agian
+# 2. Change the program to gui based using pygame module
